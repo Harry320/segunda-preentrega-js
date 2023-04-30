@@ -54,4 +54,4 @@ while (seleccionarProductos != 0) {
 
   envio()
 
-  
+        alert("Gracias por la compra! Hasta pronto ")
